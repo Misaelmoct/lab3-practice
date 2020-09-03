@@ -9,3 +9,14 @@ this is after my first push.
 
 trying the branch thing to see if it works.
 123
+
+int hello 
+cout << oh wow>>
+keeping wrting
+this class is hard
+i want an A
+
+1
+2
+3
+4
